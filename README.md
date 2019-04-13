@@ -1,0 +1,2 @@
+# etudes_sante_publique
+Etude de grande ampleur sur le thème de la sous-nutrition dans le monde.  Le problème de la faim est complexe et peut avoir de multiples causes, différentes selon les pays. L’étape préliminaire de cette étude sera donc d’établir un “état de l’art” des recherches déjà publiées, mais également de mener une étude statistique destinée à orienter les recherches vers des pays particuliers, et de mettre en lumière différentes causes de la faim.
